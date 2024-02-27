@@ -1,0 +1,21 @@
+.borda {
+    border: 10px solid red;
+    height: 500px;
+    width: 700px;
+}
+
+.grade1 {
+    display: flex;
+    border: 2px solid gray;
+    height: 16px;
+    width: 16px;
+}
+
+.container {
+    display: flex;
+}
+
+.cor {
+    background-color: red;
+    color: red;
+}
